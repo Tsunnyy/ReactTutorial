@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Navbar about="About us"/>
-      <Textarea heading="Text Here" />
+      <Textarea heading="Enter text for the action" />
     </>
   );
 }
